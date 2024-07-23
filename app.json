@@ -11,17 +11,17 @@
             "required": true,
             "value": "put session id here"
         },
-    "COMMAND_TYPE": {
+    "COMMAND_TYPE": {button
             "description": "Put here (button or nonbutton) to change bot command mode",
             "required": true,
             "value": "button"
         },
-    "OWNER_NUMBER": {
+    "OWNER_NUMBER": {2250701832564
             "description": "Put here your number without +",
             "required": true,
             "value": "947xxxxxxxx"
         },
-    "POSTGRESQL_URL": {
+    "POSTGRESQL_URL": {postgres://vajiratech_user:oSIFl2xmSojMZ0rkzdd0g0W6msuVTpNN@dpg-cpd7fjv109ks73e5gtig-a.frankfurt-postgres.render.com/vajiratech"
             "description": "Put here postgresql url",
             "required": true,
             "value": "postgres://vajiratech_user:oSIFl2xmSojMZ0rkzdd0g0W6msuVTpNN@dpg-cpd7fjv109ks73e5gtig-a.frankfurt-postgres.render.com/vajiratech"
