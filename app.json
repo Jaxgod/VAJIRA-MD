@@ -19,12 +19,12 @@
     "OWNER_NUMBER": {2250701832564
             "description": "Put here your number without +",
             "required": true,
-            "value": "947xxxxxxxx"
+            "value": "2250701832564"
         },
     "POSTGRESQL_URL": {postgresql://lyfebot_7iy7_user:pBhpqsQIBNOOoMo8RQnAnhttSvPd7HyZ@dpg-cq6eseks1f4s73e1g2k0-a.oregon-postgres.render.com/lyfebot_7iy7
             "description": "Put here postgresql url",
             "required": true,
-            "value": "postgres://vajiratech_user:oSIFl2xmSojMZ0rkzdd0g0W6msuVTpNN@dpg-cpd7fjv109ks73e5gtig-a.frankfurt-postgres.render.com/vajiratech"
+            "value": "    "POSTGRESQL_URL": {postgresql://lyfebot_7iy7_user:pBhpqsQIBNOOoMo8RQnAnhttSvPd7HyZ@dpg-cq6eseks1f4s73e1g2k0-a.oregon-postgres.render.com/lyfebot_7iy7"
         } 
     },
     "buildpacks": [
@@ -32,5 +32,5 @@
             "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
         }
      ],
-  "stack": "GitHub"
+  "stack": "heroku-22"
 }
